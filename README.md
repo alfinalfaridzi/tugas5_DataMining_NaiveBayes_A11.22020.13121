@@ -1,0 +1,2 @@
+# tugas5_DataMining_NaiveBayes_A11.22020.13121
+tugas5_DataMining_NaiveBayes_A11.22020.13121_Mokhammad_Alfin_Alfaridzi
